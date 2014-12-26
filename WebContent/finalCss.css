@@ -1,0 +1,55 @@
+@CHARSET "UTF-8";
+
+#thankyou
+{
+	text-align:center;
+}
+
+#cart
+{
+	margin-left: 25%;
+}
+
+.product
+{
+	float:left;
+}
+
+.text 
+{
+	
+	margin-left: 132px;
+
+}
+
+#checkout
+{
+	clear:both;
+}
+
+.items{
+	height:130px;
+	width:960px;
+}
+
+.allForm
+{
+	
+	width:960px;
+	
+}
+
+.textProduct
+{
+	
+	margin-left: 0px;
+
+}
+
+.textCart
+{
+	
+	margin-left: 0px;
+
+}
+
